@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Signals</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal">Normal</string>
+    <string name="satelite">Satelite</string>
+    <!--<string name="dark">Oscuro</string>-->
+    <string name="terreno">Terreno</string>
+    <string name="hibrido">Hibrido</string>
+</resources>
